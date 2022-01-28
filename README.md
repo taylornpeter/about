@@ -4,5 +4,5 @@ I am taylornpeter, a 14-year-old amateur game developer and website "designer". 
 ## Contact:
 📺 YouTube: https://www.youtube.com/channel/UCjjOdZLKO8GIsKg1AbxwsDg
 ## Miscellaneous:
- - 🍳 Favourite breakfast: Vietnamese Pho
- - 🏫 Subjects of interest at school: Chemistry, Physics, Mathematics and IT
+🍳 Favourite breakfast: Vietnamese Pho <br />
+🏫 Subjects of interest at school: Chemistry, Physics, Mathematics and IT
